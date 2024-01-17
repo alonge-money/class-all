@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+nav{
+    margin-top: 20px;
+}
+a {
+  text-decoration: none;
+  padding-left: 20px;
+  font-size: 20px;
+}
